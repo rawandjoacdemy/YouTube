@@ -315,7 +315,7 @@ body {
 
 .videoduration {
     position: absolute;
-    bottom: 80px;
+    bottom: 85px;
     right: 8px;
     background-color: rgba(0, 0, 0, 0.8);
     color: #fff;
@@ -328,6 +328,7 @@ body {
 .videoinfo {
     display: flex;
     gap: 12px;
+    margin: 0px 0px 10px 10px;
 }
 
 .channelavatar {
