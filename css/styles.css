@@ -341,7 +341,7 @@ body {
     justify-content: center;
     font-size: 18px;
     flex-shrink: 0;
-    background-image: url('/Images/image.jpg');
+    background-image: url('images/image.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
